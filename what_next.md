@@ -10,11 +10,6 @@ This is fairly easy if you think about it in terms of all the various stuff that
 
 Once you are able to do this, you can claim to be a Python programmer. Now, immediately [send me an email]({{ book.contactUrl }}) thanking me for this great book ;-). This step is optional but recommended. Also, please consider [buying a printed copy]({{ book.buyBookUrl }}) to support the continued development of this book.
 
-If you found that program easy, here's another one:
-
-> Implement the [replace command](http://unixhelp.ed.ac.uk/CGI/man-cgi?replace). This command will replace one string with another in the list of files provided.
-
-The replace command can be as simple or as sophisticated as you wish, from simple string substitution to looking for patterns (regular expressions).
 
 ## Next Projects
 
