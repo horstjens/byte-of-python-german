@@ -1,0 +1,6 @@
+$ python3 break_de.pySchreib etwas : ich bin da
+Die Länge des Textstrings ist: 10
+Schreib etwas : ich bin nicht mehr da
+Die Länge des Textstrings ist: 21
+Schreib etwas : aufhören
+Tschüss!

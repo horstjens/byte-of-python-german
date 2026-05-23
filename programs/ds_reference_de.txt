@@ -1,0 +1,7 @@
+$ python3 ds_reference_de.py
+Einfache Zuweisung
+Obst: ['Mango', 'Karotte', 'Banane']
+Früchte: ['Mango', 'Karotte', 'Banane']
+Kopieren (full slice)
+Obst: ['Mango', 'Karotte', 'Banane']
+Früchte ['Karotte', 'Banane']

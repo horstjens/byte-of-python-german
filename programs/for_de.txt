@@ -1,0 +1,5 @@
+$ python3 for_de.py1
+2
+3
+4
+Die for-Schleife ist beendet

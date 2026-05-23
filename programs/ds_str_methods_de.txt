@@ -1,0 +1,5 @@
+$ python3 ds_str_methods_de.py
+Ja, der String beginnt mit "Swa"
+Ja, der String enthält ein "a"
+Ja, der String enthält den (sub)string "war"
+Brazil_*_Russia_*_India_*_China

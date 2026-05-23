@@ -1,0 +1,2 @@
+$ python3 oop_init_de.py
+Hallo, ich heiße Swaroop

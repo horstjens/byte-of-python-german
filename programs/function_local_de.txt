@@ -1,0 +1,4 @@
+$ python3 function_local_de.py
+x ist 50
+Lokales x geändert zu: 2
+x ist immer noch 50

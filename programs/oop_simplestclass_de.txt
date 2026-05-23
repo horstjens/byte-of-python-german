@@ -1,0 +1,2 @@
+$ python3 oop_simplestclass_de.py 
+<__main__.Person object at 0x758768cf4c20>

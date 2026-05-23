@@ -1,0 +1,16 @@
+$ python3 ds_seq_de.py
+Item 0 ist Apfel
+Item 1 ist Mango
+Item 2 ist Karotte
+Item 3 ist Banane
+Item -1 ist Banane
+Item -2 ist Karotte
+Buchstabe 0 ist S
+Items mit Index 1 bis 3 sind ['Mango', 'Karotte']
+Items mit Index 2 bis (inkl.) zum Ende sind ['Karotte', 'Banane']
+Items mit Index 1 bis Index -1 sind ['Mango', 'Karotte']
+Items vom Start bis zum Ende sind ['Apfel', 'Mango', 'Karotte', 'Banane']
+Buchstaben mit Index 1 bis 3 sind wa
+Buchstaben mit Index 2 bis (inkl.) zum Ende sind aroop
+Buchstaben mit Index 1 bis -1 sind waroo
+Buchstaben vom Start bis zum Ende sind Swaroop

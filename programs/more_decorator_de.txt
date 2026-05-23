@@ -1,0 +1,18 @@
+$ python3 more_decorator_de.py
+Schreibt in eine Datenbank, überträgt Daten per Netzwerk etc.
+Die Funktion wird automatisch nocheinmal ausgeführt wennn
+eine Exception auftritt
+Dies ist Versuch 1
+ERROR:retry:Versuch 1 von 5 schlug fehl: (('Irgendein schlechter Wert',), {})
+Traceback (most recent call last):
+  File "/home/horst/code/byte-of-python_deutsch_horst/programs/more_decorator_de.py", line 19, in wrapper_function
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/horst/code/byte-of-python_deutsch_horst/programs/more_decorator_de.py", line 46, in save_to_database
+    raise ValueError(arg)
+ValueError: Irgendein schlechter Wert
+Schreibt in eine Datenbank, überträgt Daten per Netzwerk etc.
+Die Funktion wird automatisch nocheinmal ausgeführt wennn
+eine Exception auftritt
+Dies ist Versuch 2
+Funktion erfolgreich ausgeführt

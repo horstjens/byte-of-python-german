@@ -1,0 +1,10 @@
+$ python3 exceptions_handle_de.py
+# drücke STRG + d
+Schreibe etwas --> Warum plötzlich ein EOF (end of file) ?
+# drücke STRG + c
+horst@BigBlackTower:~/code/byte-of-python_deutsch_horst/programs$ python3 exceptions_handle_de.py 
+Schreibe etwas --> ^CVorgang wurde abgebrochen.
+# 
+horst@BigBlackTower:~/code/byte-of-python_deutsch_horst/programs$ python3 exceptions_handle_de.py 
+Schreibe etwas --> Keine Exceptions
+Du hast geschrieben: Keine Exceptions

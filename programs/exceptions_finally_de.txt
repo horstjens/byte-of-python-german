@@ -1,0 +1,9 @@
+$ python3 exceptions_finally_de.py
+Programming is fun
+Drücke jetzt STRG+c
+When the work is done
+Drücke jetzt STRG+c
+if you wanna make your work also fun:
+Drücke jetzt STRG+c
+^C!! Lesevorgang wurde unterbochen mit Tastatur
+(Aufräumen: Datei wurde geschlossen)

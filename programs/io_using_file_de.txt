@@ -1,0 +1,6 @@
+python3 io_using_file_de.py
+Programmieren macht Spaß
+wenn die Arbeit getan ist.
+Wenn Du Spaß an der Arbeit haben willst:
+    verwende Python!
+

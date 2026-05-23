@@ -1,0 +1,8 @@
+$ python3 oop_subclass_de.py 
+(Initialisiere Mensch: Mrs. Shrividya)
+(Initialisiere Lehrer: Mrs. Shrividya)
+(Initialisiere Mensch: Swaroop)
+(Initialisiere Schüler: Swaroop)
+
+Name:"Mrs. Shrividya" Alter:"40" Gehalt: 30000
+Name:"Swaroop" Alter:"25" Noten: 75

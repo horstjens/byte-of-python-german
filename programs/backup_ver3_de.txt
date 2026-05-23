@@ -1,0 +1,5 @@
+$ python3 backup_ver3_de.py  
+File "/home/horst/code/byte-of-python_deutsch_horst/programs/backup_ver3_de.py", line 33
+    ziel = ziel_ordner + os.sep + heute + os.sep + jetzt + "_" +
+                                                                ^
+SyntaxError: invalid syntax

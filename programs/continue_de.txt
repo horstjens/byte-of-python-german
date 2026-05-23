@@ -1,0 +1,12 @@
+$ python3 continue_de.py
+Schreib etwas : ja
+Zu wenig
+Schreib etwas : na
+Zu wenig
+Schreib etwas : jo
+Zu wenig
+Schreib etwas : echt?
+Der Text ist lang genug
+Schreib etwas : na gut
+Der Text ist lang genug
+Schreib etwas : aufhören

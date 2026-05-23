@@ -1,0 +1,10 @@
+$ python3 ds_using_list_de.py
+Ich habe 4 Sachen zu kaufen.
+Und zwar: Apfel Mango Karotte Banane 
+I muss auch Reis kaufen.
+Meine Einkaufsliste schaut jetzt so aus: ['Apfel', 'Mango', 'Karotte', 'Banane', 'Reis']
+Ich sortiere die Einkaufsliste alphabetisch
+Sortierte Einkufsliste: ['Apfel', 'Banane', 'Karotte', 'Mango', 'Reis']
+Zuerst kaufe ich: Apfel
+I habe schon gekauft:  Apfel
+Meine Einkaufsliste lautet jetzt:  ['Banane', 'Karotte', 'Mango', 'Reis']

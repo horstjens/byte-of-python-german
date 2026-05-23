@@ -1,0 +1,7 @@
+$ python3 io_input_de.py
+Bitte einen Text eingeben: Rentner
+Ja, das ist ein Palindrome
+
+
+$ python3 io_input_de.pyBitte einen Text eingeben: Marmelade
+Nein, das ist kein Palindrom

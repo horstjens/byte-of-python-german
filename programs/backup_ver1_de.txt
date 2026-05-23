@@ -1,0 +1,12 @@
+$ python backup_de.py
+Das Zip command lautet:
+zip -r /home/horst/Backups/20260512143235.zip /home/horst/Documents/rudi
+Ausführung:
+  adding: home/horst/Documents/rudi/ (stored 0%)
+  adding: home/horst/Documents/rudi/gerburtstagseinladung4.pdf (deflated 1%)
+  adding: home/horst/Documents/rudi/gerburtstagseinladung4.svg (deflated 25%)
+  adding: home/horst/Documents/rudi/spielmusik_anmeldung_2.pdf (deflated 0%)
+  adding: home/horst/Documents/rudi/Elternbrief neues Anmeldesystem _1_.pdf (deflated 8%)
+  adding: home/horst/Documents/rudi/spielemusik_anmeldung_rudolf_JENS.pdf (deflated 0%)
+  adding: home/horst/Documents/rudi/spielmusik_anmeldung_1.pdf (deflated 0%)
+Backup erfolgreich in Datei: /home/horst/Backups/20260512143235.zip

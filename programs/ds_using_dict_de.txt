@@ -1,0 +1,10 @@
+$ python3 ds_using_dict_de.py
+Swaroop's Email ist swaroop@swaroopch.com
+
+Es sind 3 Kontakte im Adressbuch
+
+Die Email von  Swaroop ist swaroop@swaroopch.com
+Die Email von  Larry ist larry@wall.org
+Die Email von  Matsumoto ist matz@ruby-lang.org
+
+Guido's email lautet guido@python.org

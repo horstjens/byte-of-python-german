@@ -1,0 +1,2 @@
+$ python3 oop_method_de.py 
+Hallo, wie geht's?

@@ -1,0 +1,16 @@
+$ python3 oop_objvar_de.py 
+(Initializing R2-D2)
+Grüße, ich werde R2-D2 genannt.
+Derzeit gibt es 1 Roboter.
+(Initializing C-3PO)
+Grüße, ich werde C-3PO genannt.
+Derzeit gibt es 2 Roboter.
+
+Hier könnten die Roboter arbeiten
+
+Arbiet ist fertig, Roboter werden zerstört....
+R2-D2 ist zerstört!
+Es sind noch 1 Roboter übrig.
+C-3PO ist zerstört!
+C-3PO war der letzte seiner Art.
+Derzeit gibt es 0 Roboter.

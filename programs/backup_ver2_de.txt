@@ -1,0 +1,11 @@
+$ python backup_ver2_de.py
+Successfully created directory /Users/swa/backup/20140329
+Das Zip command lautet::
+zip -r /Users/swa/backup/20140329/073201.zip /Users/swa/notes
+Ausführung:
+  adding: Users/swa/notes/ (stored 0%)
+  adding: Users/swa/notes/blah1.txt (stored 0%)
+  adding: Users/swa/notes/blah2.txt (stored 0%)
+  adding: Users/swa/notes/blah3.txt (stored 0%)
+Backup erfolgreich in Datei: /Users/swa/backup/20140329/073201.zip
+

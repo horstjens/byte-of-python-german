@@ -1,0 +1,4 @@
+$ python3 function_global_de.py
+x ist 50
+Habe das globale x verändert zu: 2
+Der Wert von x ist: 2

@@ -1,0 +1,8 @@
+$ python3 function_varargs_de.py
+a 10
+einzelnes Item 1
+einzelnes Item 2
+einzelnes Item 3
+Jack 1123
+John 2231
+Inge 1560

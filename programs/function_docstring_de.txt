@@ -1,0 +1,6 @@
+$ python3 function_docstring_de.py
+5 ist die größere Zahl
+
+    Druckt die größere von 2 Zahlen.
+
+    Beide Zahlen müssen Ganzzahlen (integers) sein.

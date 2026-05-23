@@ -1,0 +1,7 @@
+$ python3 ds_using_tuple_de.py
+Anzahl der Tiere im Zoo: 3
+Anzahl der Käfige im Zoo: 3
+Alle Tiere im neuen Zoo: ('Affe', 'Kamel', ('Python', 'Elefant', 'Pinguin'))
+Tiere vom alten Zoo: ('Python', 'Elefant', 'Pinguin')
+Das letzte Tier vom alten Zoo: Pinguin
+Anzahl der Tiere im neuen Zoo:  5
