@@ -1,6 +1,6 @@
 # Installation 
 
-Wenn wir in diesem Buch von **"Python 3"** sprechen, beziehen wir uns auf eine (aktuelle) Version von Python, die gleich oder höher als die Version [Python 3.12](https://www.python.org/downloads/) welche in diesem Buch verwendet wird.
+Wenn wir in diesem Buch von **"Python 3"** sprechen, beziehen wir uns auf eine (aktuelle) Version von Python, die gleich oder höher als die Version [Python 3.12](https://www.python.org/downloads/), welche in diesem Buch verwendet wird.
 
 ---
 
